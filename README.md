@@ -33,7 +33,7 @@ The parser can easily be converted to @annotations in models in the future. Text
 
 Syntax:
 
-- Hashtag: Entity
+- Hashtag (#): Entity
 - Single Asterisk (*): field required in the database and UI
 - Double Asterisk (**): field required in the database and UI and it is the main field (for aggregation)
 - Question mark (!): do not show in the UI
