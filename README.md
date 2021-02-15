@@ -2,6 +2,8 @@
 
 Build rich CRUD models and views using Floor. Fully customizable, non-invasive, coupled view-model, relational entities with foreign key accessor. Inspired by Django.
 
+To put simply: Floor helps DB->Models. The missing part is Models->Business_Logic->UI. Rich CRUD Floor is this right end of the chain DB->Models->Business_Logic->UI.
+
 ## Goal
 
 Go from this (text):
