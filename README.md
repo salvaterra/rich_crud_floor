@@ -8,7 +8,7 @@ Go from this (text):
 
 ``#Person: String name;``
 
-to a fully functional Floor entity, daos, and (in the future) CRUD view: create, read, update and delete, including dropbox for related foreign key entities (Person.getKids() yields List<Kids>).
+to a fully functional Floor entity, daos, and (in the future) CRUD view: create, read, update and delete, including dropbox for related foreign key entities (Person.getKids() yields List\<Kids\>).
 
 ## Features
 
